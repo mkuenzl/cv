@@ -69,10 +69,18 @@ header {
 /* MEDIA QUERIES (SMALL DEVICES) */
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 120vh;
     }
 
     .header__socials, .scroll__down {
         display: none;
+    }
+    
+    .personalPicture {
+	width: 28rem;
+	height: 30rem;
+	margin-top: 2rem;
+	left: calc(50% - 14rem);
+	padding: 2rem 1.5rem 1.5rem 1.5rem;
     }
 }
