@@ -27,6 +27,6 @@ footer a {
 }
 
 .footer_copyright {
-    margin-bottom: 4rem;
+    margin-bottom: 0rem;
     color: var(--color-bg);
 }

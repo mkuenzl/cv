@@ -13,11 +13,11 @@
 
 /* Defines all css variables across the project - can be used anywhere with var() */
 :root {
-    --color-bg: #1f1f38;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
-    --color-white: #fff;
+    --color-bg: #252627;
+    --color-bg-variant: #bb0a21;
+    --color-primary: #d3d4d9;
+    --color-primary-variant: #bb0a21;
+    --color-white: #fff9fb;
     --color-light: rgba(255, 255, 255, 0.6);
 
     --transition: all 400ms ease;
@@ -43,7 +43,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/bg-texture.png);
+    /*background-image: url(../src/assets/bg-texture.png);*/
 }
 
 /* ------------ GENERAL STYLES ------------ */
