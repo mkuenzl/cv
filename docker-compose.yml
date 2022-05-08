@@ -2,9 +2,9 @@ version: "3.8"
 
 services:
   app:
-    container_name: dev-personal-app
+    container_name: dev-cv-page
     restart: unless-stopped
-    image: dev-personal-app
+    image: dev-cv-page
     build:
       context: .
       target: development

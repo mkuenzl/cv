@@ -33,9 +33,6 @@ html {
     scroll-behavior: smooth;
 }
 
-::-webkit-scrollbar {
-    display: none;
-}
 
 /* Added font family and background picture */
 body {
