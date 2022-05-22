@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Google",
+      "text": "Experienced",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Git / Github",
+      "text": "Experienced",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "MS Office",
+      "text": "Unfortunately Experienced",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Windows / Mac OS / Linux",
+      "text": "Experienced",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "name": "Intellij",
+      "text": "Experienced",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "VS Code",
+      "text": "Experienced",
+      "rating": 2
+    },
+    {
+      "id": 7,
+      "name": "Power BI",
+      "text": "Experienced",
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "Stackoverflow",
+      "text": "Experienced",
+      "rating": 4
+    }
+]
