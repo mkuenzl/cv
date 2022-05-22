@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbcf485d.css",
-    "main.js": "/static/js/main.29fcfb37.js",
-    "static/media/me.png": "/static/media/me.c01f2b647a5ba4c1447f.png",
-    "static/media/me-about.jpg": "/static/media/me-about.39f70f20fd324f4a8f56.jpg",
-    "static/media/curriculum-vitae-english-kuenzl.pdf": "/static/media/curriculum-vitae-english-kuenzl.82b1a2d02ad566f6301d.pdf",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "index.html": "/index.html",
-    "main.dbcf485d.css.map": "/static/css/main.dbcf485d.css.map",
-    "main.29fcfb37.js.map": "/static/js/main.29fcfb37.js.map"
+    "main.css": "/homepage/static/css/main.dbcf485d.css",
+    "main.js": "/homepage/static/js/main.9e63b4a8.js",
+    "static/media/me.png": "/homepage/static/media/me.c01f2b647a5ba4c1447f.png",
+    "static/media/me-about.jpg": "/homepage/static/media/me-about.39f70f20fd324f4a8f56.jpg",
+    "static/media/curriculum-vitae-english-kuenzl.pdf": "/homepage/static/media/curriculum-vitae-english-kuenzl.82b1a2d02ad566f6301d.pdf",
+    "static/media/portfolio2.jpg": "/homepage/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/homepage/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/homepage/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "index.html": "/homepage/index.html",
+    "main.dbcf485d.css.map": "/homepage/static/css/main.dbcf485d.css.map",
+    "main.9e63b4a8.js.map": "/homepage/static/js/main.9e63b4a8.js.map"
   },
   "entrypoints": [
     "static/css/main.dbcf485d.css",
-    "static/js/main.29fcfb37.js"
+    "static/js/main.9e63b4a8.js"
   ]
 }
