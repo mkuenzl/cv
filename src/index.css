@@ -14,12 +14,12 @@
 /* Defines all css variables across the project - can be used anywhere with var() */
 :root {
     --color-bg: #252627;
-    --color-bg-variant: #485665;
+    --color-bg-variant: #51545a;
     --color-primary: #d3d4d9;
     --color-primary-variant: #fff9fb;
     --color-primary-accent: #87f5fb;
-    --color-white: #fff9fb;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-white: #ffffff;
+    --color-light: #c0c0c0;
 
     --transition: all 400ms ease;
 
@@ -52,6 +52,7 @@ body {
 
 h1, h2 ,h3, h4, h5 {
     font-weight: 500;
+    color: var(--color-white);
 }
 
 h1 {
