@@ -1,4 +1,5 @@
-[
+{ 
+  "toolskills":[
     {
       "id": 1,
       "name": "Google",
@@ -47,4 +48,55 @@
       "text": "Experienced",
       "rating": 4
     }
-]
+  ],
+  "codeskills":[
+    {
+      "id": 1,
+      "name": "Java",
+      "text": "Experienced",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Python",
+      "text": "Experienced",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "R",
+      "text": "Experienced",
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "VBA",
+      "text": "Experienced",
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "name": "SQL",
+      "text": "Experienced",
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "name": "HTML",
+      "text": "Experienced",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "name": "JavaScript",
+      "text": "Experienced",
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "name": "CSS",
+      "text": "Experienced",
+      "rating": 2
+    }
+  ]
+}
