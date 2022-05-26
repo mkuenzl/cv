@@ -2,7 +2,7 @@ import React from 'react'
 import StarRating from './Rating'
 import './skill.css'
 import {IoShieldCheckmarkOutline} from 'react-icons/io5'
-import Skills from '../../assets/skill_data.json'
+import Skills from '../../assets/data/skill_data.json'
 
 const Experienced = () => {
   const ts = Skills.toolskills
