@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe0ca7bb.css",
-    "main.js": "/static/js/main.b10aedbb.js",
+    "main.css": "/static/css/main.ee77bd53.css",
+    "main.js": "/static/js/main.69541781.js",
     "static/media/me.png": "/static/media/me.c01f2b647a5ba4c1447f.png",
+    "static/media/portrait-me.jpg": "/static/media/portrait-me.5ce006d133bd67c7f5fa.jpg",
     "static/media/me-about.jpg": "/static/media/me-about.39f70f20fd324f4a8f56.jpg",
     "static/media/curriculum-vitae-english-kuenzl.pdf": "/static/media/curriculum-vitae-english-kuenzl.82b1a2d02ad566f6301d.pdf",
     "static/media/icon-raspberry-pi.png": "/static/media/icon-raspberry-pi.82804a2c345a9c54be2c.png",
     "static/media/icon-webpage.png": "/static/media/icon-webpage.f106ad89c9eb0ce9e3bb.png",
     "static/media/icon-metabar.png": "/static/media/icon-metabar.ee7a665e6845c1f66fde.png",
     "index.html": "/index.html",
-    "main.fe0ca7bb.css.map": "/static/css/main.fe0ca7bb.css.map",
-    "main.b10aedbb.js.map": "/static/js/main.b10aedbb.js.map"
+    "main.ee77bd53.css.map": "/static/css/main.ee77bd53.css.map",
+    "main.69541781.js.map": "/static/js/main.69541781.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe0ca7bb.css",
-    "static/js/main.b10aedbb.js"
+    "static/css/main.ee77bd53.css",
+    "static/js/main.69541781.js"
   ]
 }
