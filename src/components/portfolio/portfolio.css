@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 4rem;
+    grid-auto-rows: auto;
 }
 
 .portfolio__item {
@@ -26,8 +27,8 @@
 }
 
 .icon {
-    height: 300px;
-    width: 300px;
+    height: 15rem;
+    width: 15rem;
   }
 
 .portfolio__item h3 {

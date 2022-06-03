@@ -2,10 +2,14 @@ header {
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
+    background-image: url("../../assets/pictures/portrait-me.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .header__container {
-    text-align: center;
+    text-align: left;
+    padding-top: 8rem;
     height: 100%;
     position: relative;
 }
@@ -15,7 +19,7 @@ header {
     margin-top: 2.5rem;
     display: flex;
     gap: 1.1rem;
-    justify-content: center;
+    justify-content: left;
 }
 
 /* Style Socials */
@@ -36,18 +40,18 @@ header {
     background: var(--color-primary);
 }
 
-/* Style Picture */
+/* Style Picture 
 .personalPicture {
     background: linear-gradient(var(--color-primary), transparent);
     width: 35rem;
     height: 37rem;
     position: absolute;
-    left: calc(50% - 17.5rem); /* Move picture to the middle by subtracting half of width */
+    left: calc(50% - 17.5rem); 
     margin-top: 6rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
-}
+}*/
 
 /* Style scroll */
 .scroll__down {
@@ -62,14 +66,23 @@ header {
 /* MEDIA QUERIES (MEDIUM DEVICES) */
 @media screen and (max-width: 1024px) {
     header {
-        height: 86vh;
+        height: 100vh;
+        background-position: 0% -50%;
+    }
+
+    .header__container {
+        text-align: left;
+        padding-top: 5rem;
+        height: 100%;
+        position: relative;
     }
 }
 
 /* MEDIA QUERIES (SMALL DEVICES) */
 @media screen and (max-width: 600px) {
     header {
-        height: 120vh;
+        height: 100vh;
+        background-position: 50% 0%;
     }
 
     .header__socials, .scroll__down {

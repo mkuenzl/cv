@@ -65,16 +65,12 @@ section {
 
 section > h2, section > h5 {
     text-align: center;
-    color: var(--color-light);
+    color: var(--color-white);
 }
 
 section > h2 {
     color: var(--color-primary);
     margin-bottom: 3rem;
-}
-
-.text-light {
-    color: var(--color-light);
 }
 
 /* Links */

@@ -9,26 +9,26 @@ const projectData = [
     id: 1,
     image: PortfolioImg1,
     title: 'Metabar Coding Pipeline',
-    github: 'https://Github.com'
+    github: 'https://github.com/mkuenzl/metabar-coding'
   },
   {
     id: 2,
     image: PortfolioImg2,
     title: 'Home Server Monitoring',
-    github: 'https://Github.com'
+    github: 'https://github.com/mkuenzl/home-server'
   },
   {
     id: 3,
     image: PortfolioImg3,
     title: 'Personal Webpage',
-    github: 'https://Github.com'
+    github: 'https://github.com/mkuenzl/mkuenzl.github.io'
   }
 ]
 
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Stuff</h5>
+      <h5>Things That I Worked On In My Freetime</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
