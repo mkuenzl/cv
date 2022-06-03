@@ -15,12 +15,12 @@
     {
       "id": 3,
       "name": "MS Office",
-      "text": "Unfortunately Experienced",
+      "text": "Experienced",
       "rating": 5
     },
     {
       "id": 4,
-      "name": "Windows / Mac OS / Linux",
+      "name": "Win / Mac / Linux",
       "text": "Experienced",
       "rating": 4
     },
