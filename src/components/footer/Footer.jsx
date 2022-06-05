@@ -24,7 +24,8 @@ const Footer = () => {
       </div>
       
       <div className="footer_copyright">
-        <small>&copy;Based on Tutrial.</small>
+        <small>&copy;Based on Tutorial.</small>
+        <small>Brand icons from skills section are from <a href="https://icons8.de/" title="Icons8.de">Icons8</a></small>
         <small><a href="https://www.flaticon.com/free-icons/dna" title="dna icons">Dna icons created by Freepik - Flaticon</a></small>
         <small><a href="https://www.flaticon.com/free-icons/webpage" title="webpage icons">Webpage icons created by Freepik - Flaticon</a></small>
         <small><a href="https://www.flaticon.com/free-icons/raspberry-pi" title="raspberry pi icons">Raspberry pi icons created by Freepik - Flaticon</a></small>

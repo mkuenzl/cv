@@ -10,6 +10,10 @@ footer a {
     color: var(--color-bg)
 }
 
+footer a:hover {
+    color: var(--color-primary-accent)
+}
+
 .permalinks {
     display: flex;
     flex-wrap: wrap;

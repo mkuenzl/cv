@@ -1,6 +1,6 @@
 .portfolio__container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    /*grid-template-columns: repeat(3, 1fr);*/
     gap: 4rem;
     grid-auto-rows: auto;
 }
@@ -13,11 +13,16 @@
     transition: var(--transition);
 }
 
-.portfolio__item:hover {
+.swiper {
+    width: 50%;
+    height: 100%;
+}
+
+/*.portfolio__item:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
     cursor: default;
-}
+}*/
 
 .portfolio__item-image {
     border-radius: 1.5rem;
@@ -62,5 +67,10 @@
         margin: 0 auto;
         width: 90%;
         
+    }
+
+    .swiper {
+        width: 80%;
+        height: 100%;
     }
 }
