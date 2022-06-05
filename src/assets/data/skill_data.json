@@ -4,49 +4,57 @@
       "id": 1,
       "name": "Google",
       "text": "Experienced",
-      "rating": 5
+      "rating": 5,
+      "image": "icons/brands/icons8-google-logo.svg"
     },
     {
       "id": 2,
       "name": "Git / Github",
       "text": "Experienced",
-      "rating": 4
+      "rating": 4,
+      "image": "icons/brands/icons8-git-48.png"
     },
     {
       "id": 3,
       "name": "MS Office",
-      "text": "Experienced",
-      "rating": 5
+      "text": "Unfortunately",
+      "rating": 5,
+      "image": "icons/brands/icons8-office-365-48.png"
     },
     {
       "id": 4,
       "name": "Win / Mac / Linux",
       "text": "Experienced",
-      "rating": 4
+      "rating": 4,
+      "image": "icons/brands/icons8-linux-48.png"
     },
     {
       "id": 5,
       "name": "Intellij",
       "text": "Experienced",
-      "rating": 5
+      "rating": 5,
+      "image": "icons/brands/icons8-intellij-idea.svg"
     },
     {
       "id": 6,
       "name": "VS Code",
       "text": "Experienced",
-      "rating": 2
+      "rating": 2,
+      "image": "icons/brands/icons8-visual-studio.svg"
     },
     {
       "id": 7,
       "name": "Power BI",
       "text": "Experienced",
-      "rating": 4
+      "rating": 4,
+      "image": "icons/brands/icons8-leistung-bi.svg"
     },
     {
       "id": 8,
-      "name": "Stackoverflow",
+      "name": "Stack Overflow",
       "text": "Experienced",
-      "rating": 4
+      "rating": 4,
+      "image": "icons/brands/icons8-stack-overflow.svg"
     }
   ],
   "codeskills":[
@@ -54,49 +62,57 @@
       "id": 1,
       "name": "Java",
       "text": "Experienced",
-      "rating": 5
+      "rating": 5,
+      "image": "icons/brands/icons8-java-kaffeetassenlogo.svg"
     },
     {
       "id": 2,
       "name": "Python",
       "text": "Experienced",
-      "rating": 4
+      "rating": 4,
+      "image": "icons/brands/icons8-python.svg"
     },
     {
       "id": 3,
       "name": "R",
       "text": "Experienced",
-      "rating": 4
+      "rating": 4,
+      "image": "icons/brands/icons8-r-64.png"
     },
     {
       "id": 4,
       "name": "VBA",
-      "text": "Experienced",
-      "rating": 3
+      "text": "Got to know",
+      "rating": 2,
+      "image": "icons/brands/icons8-visual-basic-50.png"
     },
     {
       "id": 5,
       "name": "SQL",
       "text": "Experienced",
-      "rating": 3
+      "rating": 3,
+      "image": "icons/brands/icons8-mysql-logo-48.png"
     },
     {
       "id": 6,
       "name": "HTML",
       "text": "Experienced",
-      "rating": 4
+      "rating": 4,
+      "image": "icons/brands/icons8-html-5.svg"
     },
     {
       "id": 7,
       "name": "JavaScript",
       "text": "Experienced",
-      "rating": 3
+      "rating": 3,
+      "image": "icons/brands/icons8-javascript.svg"
     },
     {
       "id": 8,
       "name": "CSS",
       "text": "Experienced",
-      "rating": 2
+      "rating": 2,
+      "image": "icons/brands/icons8-css3.svg"
     }
   ]
 }

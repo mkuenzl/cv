@@ -36,7 +36,9 @@
 }
 
 .experience__details-icon {
-    margin-top: 6px;
+    margin-top: 4px;
+    width: 2rem;
+    height: 2rem;
     color: var(--color-primary-accent);
 }
 
@@ -69,6 +71,6 @@
 
     .experience__container > div {
         width: 100%;
-        padding: 1rem 2rem;
+        padding: 1rem 0.5rem;
     }
 }
