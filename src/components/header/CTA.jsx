@@ -5,8 +5,14 @@ import CV from '../../assets/curriculum-vitae-english-kuenzl.pdf'
 const CTA = () => {
   return (
     <div className='cta'>
-        <a href={CV} download className='btn'>Download CV</a>
-        <a href='#contact' className='btn btn-primary'>Let's Talk</a>
+        
+        <a href={CV} download>
+          <button className='btn'>Download CV</button>
+        </a>
+        
+        <a href='#contact'>
+          <button className='btn btn-primary'>Let's Talk</button>
+        </a>
     </div>
   )
 }
