@@ -46,6 +46,10 @@
     color: var(--color-primary-accent);
 }
 
+.text-light {
+    color: var(--color-light);
+}
+
 /* MEDIA QUERIES (MEDIUM DEVICES) */
 @media screen and (max-width: 1024px) {
     .experience__container {
