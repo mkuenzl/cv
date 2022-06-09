@@ -47,7 +47,7 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
-      <Swiper pagination={true} modules={[Pagination]} className="swiper">     
+      <Swiper pagination={true} modules={[Pagination]} className="swiper" spaceBetween={50}>     
         {
           projectData.map(({id, image, title, github}) => {
             return (
