@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.25e5f3df.css",
-    "main.js": "/static/js/main.a7d3cdcc.js",
+    "main.css": "/static/css/main.bb8801af.css",
+    "main.js": "/static/js/main.d3e37bd7.js",
     "static/media/me.png": "/static/media/me.c01f2b647a5ba4c1447f.png",
     "static/media/portrait-me.jpg": "/static/media/portrait-me.5ce006d133bd67c7f5fa.jpg",
     "static/media/curriculum-vitae-english-kuenzl.pdf": "/static/media/curriculum-vitae-english-kuenzl.82b1a2d02ad566f6301d.pdf",
@@ -9,11 +9,11 @@
     "static/media/icon-webpage.png": "/static/media/icon-webpage.f106ad89c9eb0ce9e3bb.png",
     "static/media/icon-metabar.png": "/static/media/icon-metabar.ee7a665e6845c1f66fde.png",
     "index.html": "/index.html",
-    "main.25e5f3df.css.map": "/static/css/main.25e5f3df.css.map",
-    "main.a7d3cdcc.js.map": "/static/js/main.a7d3cdcc.js.map"
+    "main.bb8801af.css.map": "/static/css/main.bb8801af.css.map",
+    "main.d3e37bd7.js.map": "/static/js/main.d3e37bd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.25e5f3df.css",
-    "static/js/main.a7d3cdcc.js"
+    "static/css/main.bb8801af.css",
+    "static/js/main.d3e37bd7.js"
   ]
 }
