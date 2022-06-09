@@ -54,10 +54,12 @@ const About = () => {
                 <h2>
                   Love for plants.
                 </h2>
-                Früher konnte ich kaum Pflanzen haben aufgrund von Katzen und meine ersten Kakteen sind innerhalb von Monaten vertrocknet.
-                Nach meinem Umzug konnte ich anfangen die komplette Wohnung zu begrünen und den Pflanzen beim wachsen zu zusehen. Die Pflege und das studieren der 
-                Pflanzeneigenschaften bereitet mit innere Ruhe. Nebenbei fand ich es schon immer fazinierend, dass in einem Glas Ökösysteme kreiert werden können.
-                Deshalb hab ich mittlerweile mehrere eigene gebaut, von denen das älteste seit 2 Jahren unangetastet ist. 
+                <p>
+                  Before I could hardly have plants due to cats and my first cacti dried up within months.
+                  After my move I was able to start greening the entire apartment and watch the plants grow. The care and the study of the 
+                  plant characteristics gives me inner peace. Besides, I have always found it fascinating that ecosystems can be created in a jar.
+                  That is why I have built several of my own, the oldest of which has been untouched for 2 years.
+                </p>
               </div>
             </div>
             
@@ -66,9 +68,11 @@ const About = () => {
                 <h2>
                   Love for cooking.
                 </h2>
-                Von klein auf gabs zu Hause immer selbst gekochtes. Jedoch habe ich erst vor ein paar Jahren zusammen mit einem guten Freund
-                den Spaß am selber kochen erkannt. Mittlerweile treffen wir uns regelmäßig um neue Gerichte zu probieren oder alte Favoriten wieder aufleben 
-                zu lassen. Regelmäßiges kochen entweder in der Gruppe oder auch alleine schnell nach der Arbeit hilft mir zu entspannen.
+                <p>
+                  From an early age, there was always home-cooked food at home. However, I have only a few years ago together with a good friend
+                  I realized the fun of cooking for myself. Now we meet regularly to try new dishes or revive old favorites. 
+                  old favorites. Regular cooking either in a group or alone quickly after work helps me to relax.
+                </p>
               </div>
               <div className="about__card">
                 <GiCampCookingPot className='about__icon-set'/>
@@ -83,9 +87,11 @@ const About = () => {
                 <h2>
                   Love for bouldering.
                 </h2>
-                Naja, um die ganzen Kalorien des Essens und der Corona Zeit wieder abzubauen muss auch sport gemacht werden.
-                Boudlern ist seit 3 Jahren mein absoluter lieblings Sport, da hier eine Problemlösende Denkweise kombiniert wird mit 
-                einem ganz Körper workout. Die Community ist unfassbar hilfsbereit und liebenswürdig. Kann jedem nur empfehlen es selbst auszuprobieren.
+                <p>
+                  Well, to get rid of all the calories of the food and the Corona time, you also have to do sports.
+                  Boudlern is since 3 years my absolute favorite sport, because here a problem-solving way of thinking is combined with 
+                  a whole body workout. The community is incredibly helpful and kind. I can only recommend everyone to try it out for themselves.
+                </p>
               </div>
             </div>
     
@@ -94,11 +100,13 @@ const About = () => {
                 <h2>
                   Love for coding.
                 </h2>
-                Obwohl ich seit kleinauf von Computer fasziniert bin und Wirtschaftsinformatik studiert habe hat es bei mir so richtig erst während dem Master 
-                klick gemacht. Bei der Bearbeitung eines Moduls namens "Compilerbau" wurde erstmal ein größeres Projekt entwicklet, was unfassbar knifflig und kompliziert 
-                war, aber auch enormen Spaß gemacht hat. Anschließend habe ich während meiner Masterarbeit an einem Java-Tool gearbeitet, was mit hilfe von einem R-Server 
-                Threads clustert nach Laufzeitverhalten. Währenddessen habe ich in meinem Studentenjob ein weiteres Tool entwicklet, was aus Excel Tabellen unterschiedlichste
-                Word Tabellen erstellt mit Hilfe von Java, Powerquery und Html-Templates. 
+                <p>
+                  Although I have been fascinated by computers since I was a child and studied business informatics, it was only during my master's degree that it really clicked for me. 
+                  it really clicked. When working on a module called "Compiler Construction", I first had to develop a larger project, which was incredibly tricky and complicated, but also a lot of fun. 
+                  but it was also a lot of fun. Afterwards, during my master thesis, I worked on a Java tool, which, with the help of an R-Server 
+                  clustering threads according to runtime behavior. In the meantime, I developed another tool in my student job, which creates various Word tables from Excel tables.
+                  Word tables with the help of Java, Powerquery and Html templates. 
+                </p>
               </div>
               <div className="about__card">
                 <BiCodeCurly className='about__icon-set'/>
