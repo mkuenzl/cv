@@ -1,76 +1,52 @@
 .about__container {
     display: grid;
 }
-/**
-.about__me {
-    width: 100%;
-    display: grid;
-    grid-template-columns: 25% 65%;
-    gap: 10%;
-    padding: 5rem;
-    place-items: center;
-}
-
-.about__me-image {
-    border-radius: 2rem;
-    overflow: hidden;
-}
-
-.about__me-text {
-    width: 100%;
-    height: 100%;
-}
-
-.about__cards {
-    margin: auto;
-    display: grid;
-    width: 60%;
-    grid-template-columns: repeat(5, 1fr);
-    gap: 3rem;
-}
-
-.about__card {
-    background: var(--color-bg-variant);
-    border: 1px solid transparent;
-    border-radius: 1rem;
-    padding: 1.5rem;
-    text-align: center;
-}
-
-.about__card:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
-    cursor: default;
-}
-
-.about__icon {
-    color: var(--color-primary-accent);
-    font-size: 1.4rem;
-    margin-bottom: 1rem;
-}
-
-.about__card h5 {
-    font-size: 0.95rem;
-}
-
-.about__card small {
-    font-size: 0.7rem;
-    color: var(--color-light);
-}
-
-.about__content p {
-    margin: 2rem 0 3rem;
-    color: var(--color-light);    
-}
-**************************************************/
 
 .about__text {
     display: grid;
 }
 
-.about__text h2{
+.about__citation {
     text-align: center;
-    margin: 1.5rem 10rem 1.5rem;
+    display: none;
+    margin: 7.5rem 10rem 7.5rem;
+}
+
+.about__citation h2{
+    text-align: center;
+    font-style: italic;
+    margin: 0 0 1rem;
+}
+
+.about__description {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    margin: 2rem 20rem 4rem;
+}
+
+.about__stat {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 40fr 60fr;
+    grid-auto-rows: auto;
+    margin: 2rem 1rem 2rem;
+}
+
+.about__stat-info {
+    text-align: left;
+}
+
+.about__stat-type {
+    display: flex;
+    grid-template-columns: 10fr 50fr;
+    align-items: center;
+    justify-content: center;
+}
+
+.about__stat-icon {
+    color: var(--color-primary-accent);
+    font-size: 1.5rem;
 }
 
 .about__content {
@@ -143,6 +119,12 @@
         gap: 0;
     }
 
+    .about__description {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin: 2rem 5rem 4rem;
+    }
+
     .about__content {
         width: 100%;
         margin: 2rem auto 4rem;
@@ -159,11 +141,12 @@
         width: 65%;
         margin: 0 auto 3rem;
     }
-
-    .about__text h2{
-        text-align: left;
-        margin: 1.5rem 2rem 1.5rem;
-    }    
+    
+    .about__description {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin: 2rem 2rem 4rem;
+    }
 
     .about__card-row {
         grid-template-columns: 1fr;
