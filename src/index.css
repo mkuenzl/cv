@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Anek+Odia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
 
 /* removes standard styles across browsers */
 * {
@@ -37,7 +42,9 @@ html {
 
 /* Added font family and background picture */
 body {
-    font-family: 'Anek Odia', sans-serif;
+    /*font-family: 'Anek Odia', sans-serif;*/
+    /*font-family: 'Space Mono', monospace;*/
+    font-family: 'Poppins', sans-serif;
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;

@@ -1,30 +1,23 @@
 { 
   "toolskills":[
     {
-      "id": 1,
-      "name": "Google",
-      "text": "Experienced",
-      "rating": 5,
-      "image": "icons/brands/icons8-google-logo.svg"
-    },
-    {
       "id": 2,
       "name": "Git / Github",
-      "text": "Experienced",
+      "text": "Fluently",
       "rating": 4,
       "image": "icons/brands/icons8-git-48.png"
     },
     {
       "id": 3,
       "name": "MS Office",
-      "text": "Unfortunately",
+      "text": "Experienced",
       "rating": 5,
       "image": "icons/brands/icons8-office-365-48.png"
     },
     {
       "id": 4,
       "name": "Win / Mac / Linux",
-      "text": "Experienced",
+      "text": "Fluently",
       "rating": 4,
       "image": "icons/brands/icons8-linux-48.png"
     },
@@ -38,79 +31,93 @@
     {
       "id": 6,
       "name": "VS Code",
-      "text": "Experienced",
-      "rating": 2,
+      "text": "Basic Competence",
+      "rating": 3,
       "image": "icons/brands/icons8-visual-studio.svg"
     },
     {
       "id": 7,
       "name": "Power BI",
-      "text": "Experienced",
-      "rating": 4,
+      "text": "Basic Competence",
+      "rating": 3,
       "image": "icons/brands/icons8-leistung-bi.svg"
     },
     {
       "id": 8,
       "name": "Stack Overflow",
-      "text": "Experienced",
-      "rating": 4,
+      "text": "Basic Competence",
+      "rating": 3,
       "image": "icons/brands/icons8-stack-overflow.svg"
+    },
+    {
+      "id": 9,
+      "name": "Docker",
+      "text": "Fluently",
+      "rating": 4,
+      "image": "icons/brands/icons8-docker-48.png"
+    },
+    {
+      "id": 10,
+      "name": "Grafana",
+      "text": "Fluently",
+      "rating": 4,
+      "image": "icons/brands/icons8-grafana.svg"
     }
   ],
   "codeskills":[
     {
       "id": 1,
       "name": "Java",
-      "text": "Experienced",
-      "rating": 5,
+      "text": "Fluently",
+      "rating": 4,
       "image": "icons/brands/icons8-java-kaffeetassenlogo.svg"
     },
     {
       "id": 2,
       "name": "Python",
-      "text": "Experienced",
-      "rating": 4,
+      "text": "Basic Competence",
+      "rating": 3,
       "image": "icons/brands/icons8-python.svg"
     },
     {
       "id": 3,
       "name": "R",
-      "text": "Experienced",
+      "text": "Fluently",
       "rating": 4,
       "image": "icons/brands/icons8-r-64.png"
     },
     {
       "id": 4,
       "name": "VBA",
-      "text": "Got to know",
+      "text": "Understanding",
       "rating": 2,
       "image": "icons/brands/icons8-visual-basic-50.png"
     },
     {
       "id": 5,
       "name": "SQL",
-      "text": "Experienced",
+      "text": "Basic Competence",
       "rating": 3,
-      "image": "icons/brands/icons8-mysql-logo-48.png"
+      "image": "icons/brands/icons8-mysql-logo.svg"
     },
     {
       "id": 6,
       "name": "HTML",
-      "text": "Experienced",
+      "text": "Fluently",
       "rating": 4,
       "image": "icons/brands/icons8-html-5.svg"
     },
     {
       "id": 7,
       "name": "JavaScript",
-      "text": "Experienced",
+      "text": "Basic Competence",
       "rating": 3,
       "image": "icons/brands/icons8-javascript.svg"
     },
     {
       "id": 8,
       "name": "CSS",
-      "text": "Experienced",
+      "text": "Understanding",
       "rating": 2,
       "image": "icons/brands/icons8-css3.svg"
     }
