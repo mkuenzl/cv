@@ -30,7 +30,7 @@
     align-items: center;
     grid-template-columns: 40fr 60fr;
     grid-auto-rows: auto;
-    margin: 2rem 1rem 2rem;
+    margin: 2rem 1rem 1.5rem;
 }
 
 .about__stat-info {
