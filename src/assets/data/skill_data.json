@@ -2,66 +2,84 @@
   "toolskills":[
     {
       "id": 2,
-      "name": "Git / Github",
+      "name": "Git",
       "text": "Fluently",
       "rating": 4,
-      "image": "icons/brands/icons8-git-48.png"
+      "image": "icons/brands/icons8-git-48.png",
+      "alt": "Pictogram Git Logo",
+      "title": "Git & Github personal experience rating"
     },
     {
       "id": 3,
       "name": "MS Office",
       "text": "Experienced",
       "rating": 5,
-      "image": "icons/brands/icons8-office-365-48.png"
+      "image": "icons/brands/icons8-office-365-48.png",
+      "alt": "Pictogram MS Office Logo",
+      "title": "MS Office personal experience rating"
     },
     {
       "id": 4,
-      "name": "Win / Mac / Linux",
+      "name": "Linux",
       "text": "Fluently",
       "rating": 4,
-      "image": "icons/brands/icons8-linux-48.png"
+      "image": "icons/brands/icons8-linux-48.png",
+      "alt": "Pictogram Linux Logo",
+      "title": "OS personal experience rating"
     },
     {
       "id": 5,
       "name": "Intellij",
       "text": "Experienced",
       "rating": 5,
-      "image": "icons/brands/icons8-intellij-idea.svg"
+      "image": "icons/brands/icons8-intellij-idea.svg",
+      "alt": "Pictogram Intellij Logo",
+      "title": "Intellij personal experience rating"
     },
     {
       "id": 6,
       "name": "VS Code",
       "text": "Basic Competence",
       "rating": 3,
-      "image": "icons/brands/icons8-visual-studio.svg"
+      "image": "icons/brands/icons8-visual-studio.svg",
+      "alt": "Pictogram VS Code Logo",
+      "title": "VS Code personal experience rating"
     },
     {
       "id": 7,
       "name": "Power BI",
       "text": "Basic Competence",
       "rating": 3,
-      "image": "icons/brands/icons8-leistung-bi.svg"
+      "image": "icons/brands/icons8-leistung-bi.svg",
+      "alt": "Pictogram Power BI Logo",
+      "title": "Power BI personal experience rating"
     },
     {
       "id": 8,
       "name": "Stack Overflow",
       "text": "Basic Competence",
       "rating": 3,
-      "image": "icons/brands/icons8-stack-overflow.svg"
+      "image": "icons/brands/icons8-stack-overflow.svg",
+      "alt": "Pictogram Stack Overflow Logo",
+      "title": "Stack Overflow personal experience rating"
     },
     {
       "id": 9,
       "name": "Docker",
       "text": "Fluently",
       "rating": 4,
-      "image": "icons/brands/icons8-docker-48.png"
+      "image": "icons/brands/icons8-docker-48.png",
+      "alt": "Pictogram Docker Logo",
+      "title": "Docker personal experience rating"
     },
     {
       "id": 10,
       "name": "Grafana",
       "text": "Fluently",
       "rating": 4,
-      "image": "icons/brands/icons8-grafana.svg"
+      "image": "icons/brands/icons8-grafana.svg",
+      "alt": "Pictogram Grafana Logo",
+      "title": "Grafana personal experience rating"
     }
   ],
   "codeskills":[
@@ -70,56 +88,72 @@
       "name": "Java",
       "text": "Fluently",
       "rating": 4,
-      "image": "icons/brands/icons8-java-kaffeetassenlogo.svg"
+      "image": "icons/brands/icons8-java-kaffeetassenlogo.svg",
+      "alt": "Pictogram Java Logo",
+      "title": "Java personal experience rating"
     },
     {
       "id": 2,
       "name": "Python",
       "text": "Basic Competence",
       "rating": 3,
-      "image": "icons/brands/icons8-python.svg"
+      "image": "icons/brands/icons8-python.svg",
+      "alt": "Pictogram Python Logo",
+      "title": "Python personal experience rating"
     },
     {
       "id": 3,
       "name": "R",
       "text": "Fluently",
       "rating": 4,
-      "image": "icons/brands/icons8-r-64.png"
+      "image": "icons/brands/icons8-r-64.png",
+      "alt": "Pictogram R Logo",
+      "title": "R personal experience rating"
     },
     {
       "id": 4,
       "name": "VBA",
       "text": "Understanding",
       "rating": 2,
-      "image": "icons/brands/icons8-visual-basic-50.png"
+      "image": "icons/brands/icons8-visual-basic-50.png",
+      "alt": "Pictogram VBA Logo",
+      "title": "VBA personal experience rating"
     },
     {
       "id": 5,
       "name": "SQL",
       "text": "Basic Competence",
       "rating": 3,
-      "image": "icons/brands/icons8-mysql-logo.svg"
+      "image": "icons/brands/icons8-mysql-logo.svg",
+      "alt": "Pictogram MySQL Logo",
+      "title": "SQL personal experience rating"
     },
     {
       "id": 6,
       "name": "HTML",
       "text": "Fluently",
       "rating": 4,
-      "image": "icons/brands/icons8-html-5.svg"
+      "image": "icons/brands/icons8-html-5.svg",
+      "alt": "Pictogram HTML Logo",
+      "title": "HTML personal experience rating"
     },
     {
       "id": 7,
       "name": "JavaScript",
       "text": "Basic Competence",
       "rating": 3,
-      "image": "icons/brands/icons8-javascript.svg"
+      "image": "icons/brands/icons8-javascript.svg",
+      "alt": "Pictogram Javascript Logo",
+      "title": "Javascript personal experience rating"
     },
     {
       "id": 8,
       "name": "CSS",
       "text": "Understanding",
       "rating": 2,
-      "image": "icons/brands/icons8-css3.svg"
+      "image": "icons/brands/icons8-css3.svg",
+      "alt": "Pictogram CSS Logo",
+      "title": "CSS personal experience rating"
     }
   ]
 }

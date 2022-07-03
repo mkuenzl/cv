@@ -1,7 +1,6 @@
 import React from 'react'
 import StarRating from './Rating'
 import './skill.css'
-import {IoShieldCheckmarkOutline} from 'react-icons/io5'
 import Skills from '../../assets/data/skill_data.json'
 
 
@@ -20,8 +19,7 @@ const Experienced = () => {
           <div className="experience__content">
             {cs.map(skill => (
               <article className='experience__details'>
-              {/*<IoShieldCheckmarkOutline className='experience__details-icon'/>*/}
-              <img src={skill.image} alt="Logo" className='experience__details-icon'/>
+              <img src={skill.image} alt={skill.alt} title={skill.title} className='experience__details-icon'/>
               <div>
                 <h4>{skill.name}</h4>
                 <small className='text-light'>{skill.text}</small>
@@ -37,8 +35,7 @@ const Experienced = () => {
           <div className="experience__content">
             {ts.map(skill => (
               <article className='experience__details'>
-              {/*<IoShieldCheckmarkOutline className='experience__details-icon'/>{'../../assets/icons/brands' + skill.image}*/}
-              <img src={skill.image} alt="Logo" className='experience__details-icon'/>
+              <img src={skill.image} alt={skill.alt} title={skill.title} className='experience__details-icon'/>
               <div>
                 <h4>{skill.name}</h4>
                 <small className='text-light'>{skill.text}</small>

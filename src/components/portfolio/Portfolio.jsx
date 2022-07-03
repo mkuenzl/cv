@@ -19,19 +19,25 @@ const projectData = [
     id: 1,
     image: PortfolioImg1,
     title: 'Metabar Coding Pipeline',
-    github: 'https://github.com/mkuenzl/metabar-coding'
+    github: 'https://github.com/mkuenzl/metabar-coding',
+    image_alt: 'A pictogram of DNA sequences.',
+    image_title: 'Metabar coding pipeline as github project'
   },
   {
     id: 2,
     image: PortfolioImg2,
     title: 'Home Server Monitoring',
-    github: 'https://github.com/mkuenzl/home-server'
+    github: 'https://github.com/mkuenzl/home-server',
+    image_alt: 'A pictogram of a raspberry pi.',
+    image_title: 'Home server monitoring project with a raspberyy pi as github project'
   },
   {
     id: 3,
     image: PortfolioImg3,
     title: 'Personal Webpage',
-    github: 'https://github.com/mkuenzl/mkuenzl.github.io'
+    github: 'https://github.com/mkuenzl/mkuenzl.github.io',
+    image_alt: 'A pictogram of a website.',
+    image_title: 'Personal portfolio SPA build with react as github project'
   }
 ]
 
@@ -49,11 +55,11 @@ const Portfolio = () => {
       <div className="container portfolio__container">
       <Swiper pagination={true} modules={[Pagination]} className="swiper" spaceBetween={50}>     
         {
-          projectData.map(({id, image, title, github}) => {
+          projectData.map(({id, image, title, github, image_alt, image_title}) => {
             return (
               <SwiperSlide className='portfolio__item'>
                 <div className="portfolio__item-image">
-                  <img src={image} alt='' className='icon'/>
+                  <img src={image} alt={image_alt} title={image_title} className='icon'/>
                 </div>
                 <h3>{title}</h3>
                 <div className="portfolio__item-cta">
