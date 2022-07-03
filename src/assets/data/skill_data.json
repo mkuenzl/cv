@@ -2,7 +2,7 @@
   "toolskills":[
     {
       "id": 2,
-      "name": "Git / Github",
+      "name": "Git",
       "text": "Fluently",
       "rating": 4,
       "image": "icons/brands/icons8-git-48.png",
@@ -20,7 +20,7 @@
     },
     {
       "id": 4,
-      "name": "Win / Mac / Linux",
+      "name": "Linux",
       "text": "Fluently",
       "rating": 4,
       "image": "icons/brands/icons8-linux-48.png",
