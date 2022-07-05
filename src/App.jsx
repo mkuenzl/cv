@@ -27,6 +27,8 @@ const App = () => {
         <meta name="reply-to" content="mo.kuenzl@gmail.com"/>
         <meta name="owner" content="Moritz Künzl"/>
 
+        <meta name="google-site-verification" content="KQgd_JEMUo9-726TMW1qDM9FyEOcUx9uGrkn5pvO-Kc" />
+
         <meta name="og:title" content="Moritz Künzl - Portfolio Website" />
         <meta name="og:url" content="https://mkuenzl.github.io" />
         <meta name="og:description" content="Personal portfolio website build with react. This website was used as a learning experience and to represent myself on the internet." />
