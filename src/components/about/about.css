@@ -6,18 +6,6 @@
     display: grid;
 }
 
-.about__citation {
-    text-align: center;
-    display: none;
-    margin: 7.5rem 10rem 7.5rem;
-}
-
-.about__citation h2{
-    text-align: center;
-    font-style: italic;
-    margin: 0 0 1rem;
-}
-
 .about__description {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
