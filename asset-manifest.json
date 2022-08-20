@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.be0cf703.css",
-    "main.js": "/static/js/main.b1fe64eb.js",
+    "main.css": "/static/css/main.b5093e52.css",
+    "main.js": "/static/js/main.b2cbe272.js",
     "static/js/787.a71561b8.chunk.js": "/static/js/787.a71561b8.chunk.js",
     "static/media/moritz-kuenzl-portrait.jpg": "/static/media/moritz-kuenzl-portrait.9173be75308bd9a41659.jpg",
     "static/media/curriculum-vitae-english-kuenzl.pdf": "/static/media/curriculum-vitae-english-kuenzl.13e9dfb5067f50a211d0.pdf",
@@ -10,12 +10,12 @@
     "static/media/icon-webpage.png": "/static/media/icon-webpage.f106ad89c9eb0ce9e3bb.png",
     "static/media/icon-metabar.png": "/static/media/icon-metabar.ee7a665e6845c1f66fde.png",
     "index.html": "/index.html",
-    "main.be0cf703.css.map": "/static/css/main.be0cf703.css.map",
-    "main.b1fe64eb.js.map": "/static/js/main.b1fe64eb.js.map",
+    "main.b5093e52.css.map": "/static/css/main.b5093e52.css.map",
+    "main.b2cbe272.js.map": "/static/js/main.b2cbe272.js.map",
     "787.a71561b8.chunk.js.map": "/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be0cf703.css",
-    "static/js/main.b1fe64eb.js"
+    "static/css/main.b5093e52.css",
+    "static/js/main.b2cbe272.js"
   ]
 }
